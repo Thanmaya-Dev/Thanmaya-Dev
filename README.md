@@ -9,13 +9,7 @@ const Thanmaya = {
 
 
 <p align="center">
-
-</a>
-
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-
-    <img src="www.linkedin.com/in/thanmaya-s-krishna-5b6418257" alt="LinkedIn" />
-
+  <a href="https://www.linkedin.com/in/thanmaya-s-krishna-5b6418257" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
 </p>
