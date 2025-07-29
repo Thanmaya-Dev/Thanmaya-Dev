@@ -8,3 +8,14 @@ const Thanmaya = {
 }
 
 
+<p align="center">
+
+</a>
+
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+
+    <img src="www.linkedin.com/in/thanmaya-s-krishna-5b6418257" alt="LinkedIn" />
+
+  </a>
+
+</p>
