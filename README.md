@@ -13,4 +13,4 @@ const Thanmaya = {
   </a>
 </p>
 
-![Thanmaya-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanmaya-Dev)
+![Thanmaya-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanmaya-Dev&theme=dark)
