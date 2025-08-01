@@ -12,3 +12,5 @@ const Thanmaya = {
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=whit" alt="LinkedIn" />
   </a>
 </p>
+
+![Thanmaya-Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanmaya-Krishna)
