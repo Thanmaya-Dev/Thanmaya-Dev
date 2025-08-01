@@ -14,3 +14,5 @@ const Thanmaya = {
 </p>
 
 ![Thanmaya-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanmaya-Dev&theme=radical&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanmaya-Dev&theme=radical)
