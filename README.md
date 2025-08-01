@@ -17,3 +17,12 @@ const Thanmaya = {
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=whit" alt="LinkedIn" />
   </a>
 </p>
+
+# 🚀 Projects
+
+| Project Name | Description |
+| :--- | :--- |
+| [AGRINOVA](https://github.com/Thanmaya-Dev/AGRINOVA) | The proposed system, Agrinova, aims to empower farmers by providing data-driven insights into soil health and crop suitability. |
+| [AlgoVision](https://github.com/Thanmaya-Dev/AlgoVision) | An interactive sorting algorithm visualizer built using React. |
+| [CHARECTER-PREDICTION](https://github.com/Thanmaya-Dev/CHARECTER-PREDICTION) | This project helps us to predict whether you are an introvert or extrovert by asking certain questions. |
+| [CHATBOT](https://github.com/Thanmaya-Dev/CHATBOT) | An interactive chatbot with whom we can clear doubts. |
