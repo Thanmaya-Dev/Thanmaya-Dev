@@ -8,6 +8,15 @@ const Thanmaya = {
 }
 ```
 
+# 🚀 Projects
+
+| Project Name | Description |
+| :--- | :--- |
+| [AGRINOVA](https://github.com/Thanmaya-Dev/AGRINOVA) | The proposed system, Agrinova, aims to empower farmers by providing data-driven insights into soil health and crop suitability. |
+| [AlgoVision](https://github.com/Thanmaya-Dev/AlgoVision) | An interactive sorting algorithm visualizer built using React. |
+| [CHARECTER-PREDICTION](https://github.com/Thanmaya-Dev/CHARECTER-PREDICTION) | This project helps us to predict whether you are an introvert or extrovert by asking certain questions. |
+| [CHATBOT](https://github.com/Thanmaya-Dev/CHATBOT) | An interactive chatbot with whom we can clear doubts. |
+
 
 ![Thanmaya-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanmaya-Dev&theme=radical&show_icons=true)
 
@@ -18,11 +27,3 @@ const Thanmaya = {
   </a>
 </p>
 
-# 🚀 Projects
-
-| Project Name | Description |
-| :--- | :--- |
-| [AGRINOVA](https://github.com/Thanmaya-Dev/AGRINOVA) | The proposed system, Agrinova, aims to empower farmers by providing data-driven insights into soil health and crop suitability. |
-| [AlgoVision](https://github.com/Thanmaya-Dev/AlgoVision) | An interactive sorting algorithm visualizer built using React. |
-| [CHARECTER-PREDICTION](https://github.com/Thanmaya-Dev/CHARECTER-PREDICTION) | This project helps us to predict whether you are an introvert or extrovert by asking certain questions. |
-| [CHATBOT](https://github.com/Thanmaya-Dev/CHATBOT) | An interactive chatbot with whom we can clear doubts. |
