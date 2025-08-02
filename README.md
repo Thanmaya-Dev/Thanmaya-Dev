@@ -17,8 +17,7 @@ const Thanmaya = {
 | [CHARECTER-PREDICTION](https://github.com/Thanmaya-Dev/CHARECTER-PREDICTION) | This project helps us to predict whether you are an introvert or extrovert by asking certain questions. |
 | [CHATBOT](https://github.com/Thanmaya-Dev/CHATBOT) | An interactive chatbot with whom we can clear doubts. |
 
-
-![Thanmaya-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanmaya-Dev&theme=radical&show_icons=true)
+![Thanmaya-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanmaya-Dev&hide_rank=true&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanmaya-Dev&theme=radical)
 <p align="center">
