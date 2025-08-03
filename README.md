@@ -20,10 +20,7 @@ const Thanmaya = {
 
 ![Thanmaya-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanmaya-Dev&hide_rank=true&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanmaya-Dev&theme=radical)
 <p align="center">
-  <a href="https://www.linkedin.com/in/thanmaya-s-krishna-5b6418257" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=whit" alt="LinkedIn" />
-  </a>
+<!-- Top Languages Card - Added layout=compact and hide_border for a cleaner look -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanmaya-Dev&theme=radical&layout=compact&hide_border=true" alt="Top Langs" />
 </p>
-
