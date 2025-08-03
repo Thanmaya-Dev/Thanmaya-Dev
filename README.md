@@ -12,6 +12,7 @@ const Thanmaya = {
 
 | Project Name | Description |
 | :--- | :--- |
+| [REACT](https://github.com/Thanmaya-Dev/AlgoVision) | An interactive sorting algorithm visualizer built using React. |
 | [AGRINOVA](https://github.com/Thanmaya-Dev/AGRINOVA) | The proposed system, Agrinova, aims to empower farmers by providing data-driven insights into soil health and crop suitability. |
 | [AlgoVision](https://github.com/Thanmaya-Dev/AlgoVision) | An interactive sorting algorithm visualizer built using React. |
 | [CHARECTER-PREDICTION](https://github.com/Thanmaya-Dev/CHARECTER-PREDICTION) | This project helps us to predict whether you are an introvert or extrovert by asking certain questions. |
