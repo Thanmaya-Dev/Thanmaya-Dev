@@ -21,6 +21,6 @@ const Thanmaya = {
 ![Thanmaya-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanmaya-Dev&hide_rank=true&show_icons=true&theme=dark)
 
 <p align="center">
-<!-- Top Languages Card - Added layout=compact and hide_border for a cleaner look -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanmaya-Dev&theme=radical&layout=compact&hide_border=true" alt="Top Langs" />
+<!-- Top Languages Card - Adjusted for wider display -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanmaya-Dev&theme=radical&card_width=500&hide_border=true" alt="Top Langs" />
 </p>
