@@ -2,7 +2,7 @@
 
 ```javascript
 const Thanmaya = {
-  Languages: [JavaScript, HTML, CSS, C, Python],
+  Languages: [Python,JavaScript, HTML, CSS, C],
   Technologies: [ReactJS, Firebase, Express, Git, Node.js,Tailwind,Bootstrap],
   Databases : [SQL, MongoDB]
 }
